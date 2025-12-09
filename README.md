@@ -1,2 +1,2 @@
-Ce projet applique des techniques de Machine Learning pour prédire le prix de maisons à partir de caractéristiques telles que la surface, le nombre de pièces, l’emplacement et l’année de construction.
-Le modèle analyse les données historiques, effectue un prétraitement avancé puis entraîne un algorithme de régression afin d’obtenir une estimation fiable des prix immobiliers. 
+This project applies Machine Learning techniques to predict house prices based on features such as surface area, number of rooms, location, and year of construction.
+The model analyzes historical data, performs advanced preprocessing, and then trains a regression algorithm to provide reliable real-estate price estimates.
